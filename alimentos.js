@@ -1,4 +1,4 @@
-//	Hacer tienda online de informatica usando: HTML, CSS, JS
+//	Hacer tienda online usando: HTML, CSS, JS
 //	En el codigo javascript hay que hacer la base de datos de los productos con un vector por ejemplo...
 //BASE DE DATOS
 var productos = ["Yogur Griego frutos rojos", "Yogur Griego frutos tropicales", "Yogur Griego", "Granola Artesanal", "Mantequilla de mani","Leche de Soya","Leche de almendras","Nutella"];
