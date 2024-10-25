@@ -1,4 +1,4 @@
-//	Hacer tienda online de informatica usando: HTML, CSS, JS
+//	Hacer tienda online de usando: HTML, CSS, JS
 //	En el codigo javascript hay que hacer la base de datos de los productos con un vector por ejemplo...
 
 //BASE DE DATOS
